@@ -11,4 +11,9 @@ Documentation.
 
 --------------------------------------------------------
 
+# Repository name
+
+`<project_name>-<subname>--<variant>--<implementation>`
+
+--------------------------------------------------------
 

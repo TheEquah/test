@@ -19,6 +19,14 @@ Documentation.
 
 # Branches
 
+# `main`
+
+This branch should contain the latest release.
+
+# `dev-<version>`
+
+# `release-<version>`
+
 --------------------------------------------------------
 
 # Versioning

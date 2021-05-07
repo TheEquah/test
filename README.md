@@ -5,12 +5,6 @@ Repository to test working with git.
 
 --------------------------------------------------------------------------------
 
-# Documentation
-
-Documentation.
-
---------------------------------------------------------------------------------
-
 # Repository name
 
 `<project_name>-<subname>--<variant>--<implementation>`
@@ -19,25 +13,47 @@ Documentation.
 
 # Branches
 
-# Main (`main`)
+## Main (`main`)
 
-This branch should contain the latest release. The contents in this branch sould be moved from the release branch.
+This branch should contain the latest release. The contents in this branch should be moved from the release branch.
 
-# Development (`dev-<version>`)
+## Development (`dev-<version>`)
 
-Branch into which current development sub-branches willbe merged. Contains additional development files.
+Branch into which current development sub-branches will be merged. Contains additional development files.
 
-# Release (`rel-<version>`)
+## Release (`rel-<version>`)
 
 Branch reresenting a release. Development will be merged into this.
 
-# Hotfix (`hfix-<version>-<ref>`)
+## Hotfix (`hfix-<version>-<ref>`)
+
+## Page (`gh-page`)
+
+Github project web page.
 
 --------------------------------------------------------------------------------
 
 # Versioning
 
-`<major>.<minor.<patch>`
+`<major>.<minor>.<patch>`
 
+
+--------------------------------------------------------------------------------
+
+# File structure
+
+## Source `/src`
+
+## Libraries `/lib`
+
+## Scripts `/scr`
+
+## Output `/out`
+
+## Documentation `/doc`
+
+## Examples `/eg`
+
+## Assets `/asset`
 
 --------------------------------------------------------------------------------
